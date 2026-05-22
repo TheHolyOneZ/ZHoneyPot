@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="base.png" alt="ZHoneyPot" width="120" height="120" style="border-radius: 24px;" />
+<img src="public/logo.png" alt="ZHoneyPot" width="120" height="120" style="border-radius: 24px;" />
 
 # ZHoneyPot
 
@@ -265,7 +265,7 @@ For a security tool, open source is not optional. You should be able to read exa
 
 <div align="center">
 
-<img src="base.png" width="72" height="72" style="border-radius: 50%; margin-bottom: 8px;" alt="TheHolyOneZ"/>
+<img src="public/logo.png" width="72" height="72" style="border-radius: 50%; margin-bottom: 8px;" alt="TheHolyOneZ"/>
 
 **TheHolyOneZ**
 
